@@ -1,1 +1,1 @@
-FROM gcr.io/google-containers/pause:3.1
+FROM gcr.io/google-containers/nginx-ingress-controller:0.12.0
